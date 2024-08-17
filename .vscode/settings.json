@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2a95b9e6-b825-4c3d-9e4c-fabf086fb82d/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/OwenReactWebsite",
+    "appService.deploySubpath": "Owen_Webstie\\build"
+}
